@@ -7,8 +7,17 @@ You are spending your first week of training becoming familiar with the company'
 To gain an understanding of the incident's life cycle, your goals for your review are as follows:
 
 Goal 1: Identify exactly what happened. 
-Goal 2: Identify when it happened.   answer :The investigation section of the final report includes an explanation of the Root Cause of the Incident, which was a vulnerability in the e-commerce web application.
+Goal 2: Identify when it happened.   
 
-Goal 3: Identify the response actions that the company took.   answer :
+Goal 3: Identify the response actions that the company took.  
+Goal 4: Identify future recommendations.   
 
-Goal 4: Identify future recommendations.   answer :
+Questions & answers : 
+1 - Question 1
+What type of security incident has affected the organization?  / The organization was affected by a security incident involving data theft.
+2 - Question 2 
+Which section of the Report includes an explanation of the Root Cause of the Incident? / The investigation section of the final report includes an explanation of the Root Cause of the Incident, which was a vulnerability in the e-commerce web application.
+3 - Question 3 
+What did the attack use to exploit the e-commerce web application flaw? / The attack used forced browsing to exploit the vulnerability in the e-commerce web application. Web server logs were used to investigate the security incident.
+4- Question 4 
+What recommendations has the organization implemented to prevent such situations from happening again in the future? / Implement routine vulnerability analysis and Implement access control mechanisms
